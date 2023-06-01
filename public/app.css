@@ -1,0 +1,121 @@
+.Nav-bar h2{
+    font-family: 'Secular One', sans-serif;
+    padding-top: -50px;
+  
+    /* border-radius: 75%; */
+    /* margin-left: 30px; */
+
+}
+.content-body{
+    max-width: 100%;
+}
+.Nav-bar{
+    background-color: #e85d04;
+}
+.search-form{
+    position: relative;
+    top:-224px;
+    left: 124px;
+}
+.search-input-text{
+    font-family: 'Secular One', sans-serif;
+    padding:20px 90px;
+    border-radius: 2px;
+    border: solid 2px black ;
+    background-color: antiquewhite;
+}   
+.search-input-button{
+    padding:70px 20px;
+    background-color: #e85d04;
+    border: none;
+}
+.hau{
+    border: solid 2px black;
+    border-radius: 95%;
+   
+    padding: 10px 10px 10px 10px;
+}
+body{
+    margin-left: 40px;
+    background-color: #e85d04;
+    margin-right:40px;
+    max-width:100%;
+  
+}
+.more-content{
+    display: inline-block;
+    justify-content: space-between;
+}
+.More{
+    font-family: 'Secular One', sans-serif;
+    padding-top: -50px;
+   margin-left:80%;
+    /* border-radius: 75%; */
+    padding-left: 50px;
+    background-color: beige;
+}
+.More body{
+    background-color: white;
+}
+.nfimg{
+    margin-left: 200px;
+}
+.navbar-con{
+    display: flex;
+    justify-content: space-between;
+}
+.information{
+    position: relative;
+    top:-450px;
+    background-color: #2c6e49;
+
+    font-size: 40px;
+    padding-left: 50px;
+    margin-left: 68%;
+}
+.h2footer{
+    color: black;
+    /* text-decoration: underline; */
+    font-family: 'Source Code Pro', monospace;
+}
+.footer{
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.content{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size:80px ;
+    max-width: 100%;
+
+}
+.lowerh1{
+    margin-top: -180px;
+}
+.findyour{
+    margin-top: -70px;
+    height: 650px;
+    overflow: hidden;
+}
+.findyour img{
+    height: 300px;
+    width: 500px;
+    margin-left: 30%;
+    margin-top: -200px;
+    
+}
+.content-div{
+    background-color: #2c6e49;
+    width:400px;
+    height: 300px;
+    margin-left: 66%;
+    margin-top: -1008px;
+    display: inline-block;
+    justify-content: space-evenly ;
+    position: relative;
+    top:-250px;
+}
+.paraone{
+    margin-top:-40px;
+    
+}
