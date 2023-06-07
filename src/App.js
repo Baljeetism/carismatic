@@ -12,9 +12,7 @@ export default function App() {
     <div className='Nav-bar'>
       <BrowserRouter>
         <Routes>
-          <Route path="/carismatic" element={
-          <><Navbar />
-          <Content />
+          <Route path="/carismatic/" element={ <><Navbar /> <Content />
           <Footer /></>}></Route>
           <Route path="/search" element={<Search />}></Route>
           <Route path="/more" element={<More />}></Route>
